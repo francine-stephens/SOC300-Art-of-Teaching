@@ -51,12 +51,6 @@ advdate <- function(obj, adv) {
 options(scipen=999)
 library(tidyverse)
 library(stevemisc)
-#library(ggpmisc)
-#library(anonymizer)
-# library(ggcal)
-#library(stringr)
-#library(kfigr)
-#library(broom)
 library(lubridate)
 
 
@@ -179,7 +173,7 @@ Cal %>%
 
 # Course Description
 
-This class will prepare you to teach Stanford students as a TA or instructor. The philosophy of this class is that teaching is both an art to learn and cultivate, and a source of great joy and personal meaning during your graduate career and beyond. In this class, we will cover key teaching skills and abilities such as leading an engaging discussion section, building an inclusive classroom, delivering a lecture, and juggling teaching logistics and competing demands. We will also explore different philosophies and ways of teaching so that you can cultivate and employ your own teaching style.
+This class will prepare you to teach Stanford students as a TA or instructor. The philosophy of this class is that teaching is both an art to learn and cultivate, and a source of great joy and personal meaning during your graduate career and beyond. In this class, we will cover key teaching skills and abilities such as leading an engaging discussion section, building an inclusive classroom, delivering a lecture, and juggling teaching logistics and competing demands. Throughout the quarter, we will explore different philosophies and ways of teaching so that you can begin to cultivate and employ your own teaching style.
 
 # Course Objectives
 
@@ -340,7 +334,7 @@ In Class:
 
 Before Class: 
 
-- Read Schinske & Tanner, 2014 "Teaching More by Grading Less (of Differently)"
+- Read Schinske & Tanner, 2014 "Teaching More by Grading Less (or Differently)"
 - Read Wright, "Assessment and Grading (Evaluation)"
 
   
