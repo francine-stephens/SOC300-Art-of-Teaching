@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.3.26)  27 MAR 2022 18:31
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.3.26)  29 MAR 2022 05:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,7 +618,7 @@ Package rerunfilecheck Info: File `SOC300-The-Art-and-Joy-of-Teaching-Syllabus.o
 Here is how much of TeX's memory you used:
  20853 strings out of 478179
  397302 string characters out of 5852894
- 668610 words of memory out of 5000000
+ 668609 words of memory out of 5000000
  41094 multiletter control sequences out of 15000+600000
  490602 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
