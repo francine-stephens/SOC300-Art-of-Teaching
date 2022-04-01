@@ -14,7 +14,7 @@ email: "fis@stanford.edu"
 web: "canvas.stanford.edu/courses/156163"
 officehours: "TH 10:00-11:30 a.m. or by appointment"
 office: "McClatchy Hall 30F"
-classroom: "200-124"
+classroom: "260-007"
 classhours: "TUE 09:45-11:45 a.m."
 
 fontfamily: mathpazo
