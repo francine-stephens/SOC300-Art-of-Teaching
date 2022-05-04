@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.3.26)  31 MAR 2022 19:03
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.3.26)  3 MAY 2022 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -603,25 +603,25 @@ Overfull \hbox (22.1475pt too wide) in alignment at lines 132--140
 [1
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 245.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 234.
 (c:/Users/Franc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 ) [2] [3]
-File: figs/calendar.pdf Graphic file (type pdf)
-<use figs/calendar.pdf>
+File: figs/calendar.png Graphic file (type bmp)
+<figs/calendar.png>
 [4] [5] 
 AED: lastpage setting LastPage
 [6] (./SOC300-The-Art-and-Joy-of-Teaching-Syllabus.aux)
 Package rerunfilecheck Info: File `SOC300-The-Art-and-Joy-of-Teaching-Syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: 6A1C711FFF48D5B7478B4251323B04F2;1925.
+(rerunfilecheck)             Checksum: 82140E6F143B799DCA10FF6271A4C478;1979.
  ) 
 Here is how much of TeX's memory you used:
- 20853 strings out of 478179
- 397302 string characters out of 5852894
- 668610 words of memory out of 5000000
+ 20854 strings out of 478179
+ 397326 string characters out of 5852894
+ 668705 words of memory out of 5000000
  41094 multiletter control sequences out of 15000+600000
  490602 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 100i,11n,104p,1232b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,11n,104p,1232b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on SOC300-The-Art-and-Joy-of-Teaching-Syllabus.pdf (6 pages).
