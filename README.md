@@ -1,7 +1,3 @@
 # SOC300-Art-of-Teaching
-Teaching materials created for SOC 300: The Art and Joy of Teaching.
 
-Contents include: 
-
-1. Course Syllabus
-2. Topic Bank for Teaching Moments
+This repo contains the course syllabus created for  SOC 300: The Art and Joy of Teaching. Other materials for the class are saved locally. See the contents in the git ignore file for an overview of the other materials. 
